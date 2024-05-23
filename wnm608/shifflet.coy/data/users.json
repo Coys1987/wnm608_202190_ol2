@@ -1,0 +1,32 @@
+[
+	{
+		"name":"Ty",
+		"type":"Seal",
+		"email":"ty@gmail.com",
+		"classes":[608]
+	},
+	{
+		"name":"Kipp",
+		"type":"Seal",
+		"email":"Kipp@gmail.com",
+		"classes":[608]
+	},
+	{
+		"name":"Vance",
+		"type":"Seal",
+		"email":"Vance@gmail.com",
+		"classes":[608]
+	},
+	{
+		"name":"Taz",
+		"type":"Seal",
+		"email":"Taz@gmail.com",
+		"classes":[608]
+	},
+	{
+		"name":"Bailey",
+		"type":"Seal",
+		"email":"Bailey@gmail.com",
+		"classes":[608]
+	}
+]
